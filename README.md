@@ -76,6 +76,12 @@ Check [this article](https://code-maze.com/net-core-web-development-part3/) for 
 # Tool Suite
 
 - A platform that provides access and documentation to FHIR developer tools
-- Access the platform using your UCL email at: https://toolsuite.azurewebsites.net/
+- Access the platform at: https://toolsuite.azurewebsites.net/
+
+1) Login with your UCL email
+2) Register the application you are creating for the Hackathon
+3) Read documentation for chosen tool to gain access
+4) Input chosen tools in application profile
+
 
 
