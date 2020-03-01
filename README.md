@@ -71,3 +71,11 @@ The app uses Dependency Injection (DI) design pattern. For more information on h
 # Logging and debugging
 
 Check [this article](https://code-maze.com/net-core-web-development-part3/) for an overview of the implemented logging features.
+
+
+# Tool Suite
+
+- A platform that provides access and documentation to FHIR developer tools
+- Access the platform using your UCL email at: https://toolsuite.azurewebsites.net/
+
+
