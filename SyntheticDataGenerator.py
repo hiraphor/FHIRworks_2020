@@ -9,8 +9,6 @@ from fhir_parser.patient import Patient, Name, Telecom, Communications, Extensio
 from fhir_parser.observation import Observation, ObservationComponent
 import numpy as np
 import pandas as pd
-import cufflinks as cf
-cf.go_offline()
 import pickle
 import re
 from datetime import date, time
